@@ -1,0 +1,16 @@
+{
+  "name": "llamajs",
+  "version": "1.0.0",
+  "description": "Llama.c port to JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "llama",
+    "llm",
+    "js"
+  ],
+  "author": "Andrey Gershun",
+  "license": "MIT"
+}
