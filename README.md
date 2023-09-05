@@ -12,3 +12,6 @@ Then run the LLM.
 ```sh
 > node src/main.js stories15M.bin -i "Tell me a story "
 ```
+
+## License
+MIT
