@@ -1,6 +1,6 @@
-const {main} = require('./main');
-const {decode} = require('./decode');
-const {buildTokenizer} = require('./buildTokenizer');
+const {main} = require('../src/main');
+const {decode} = require('../src/decode');
+const {buildTokenizer} = require('../src/buildTokenizer');
 
 // const t = {bytePieces:[]};
 // buildTokenizer(t, './models/tokenizer.bin', 32000);
