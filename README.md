@@ -1,6 +1,6 @@
-# Llama.c port to JavaScript
+# Llama2.c port to JavaScript
 
-This is a JavaScript version of the popular llama.c library by Andrej Karpathy.
+This is a JavaScript version of the popular [llama2.c](https://github.com/karpathy/llama2.c) library by Andrej Karpathy.
 
 Place the model file (e.g. [stories15M.bin]()) into the directory.
 ```sh
