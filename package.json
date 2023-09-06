@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-	  "llamajs": "./src/main.js"
-	},
+    "llamajs": "./src/main.js"
+  },
   "keywords": [
     "llama",
     "llm",
