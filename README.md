@@ -13,5 +13,13 @@ Then run the LLM.
 > node src/main.js stories15M.bin -i "Tell me a story "
 ```
 
+The repo is not yet on npm, byt if you prefer to run from outside of the repo you can install it globally via npm
+
+```sh
+> npm install -g .
+> llamajs stories15M.bin -i "Tell me a story "
+```
+
+
 ## License
 MIT
